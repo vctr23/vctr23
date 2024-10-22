@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Víctor Sánchez Melero</h1>
 <h3 align="center">Un Mecatrónico industrial cursando CFGS Desarrollo de aplicaciones multiplataforma</h3>
 
-- 🌱 I’m currently learning **Kotlin**
 
 <p align="left">
 </p>
