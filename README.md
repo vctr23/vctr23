@@ -4,7 +4,7 @@
 
 <h3>👩‍💻 My socials:</h3>
 <div align="left">
-  <a href="www.linkedin.com/in/víctor-sánchez-melero-5b62a1281" target="_blank">
+  <a href="www.linkedin.com/in/víctor-sánchez-melero-5b62a1281" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35" alt="linkedin logo"  />
   </a>
 </div>
